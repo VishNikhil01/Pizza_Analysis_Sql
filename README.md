@@ -19,4 +19,6 @@ This project uses MySQL to analyze pizza order data from CSV files, extracting i
 
 Below is the detailed project documentation:
 
-<embed src=".Documentaion.pdf" type="application/pdf" width="100%" height="600px" />
+Click the image below to view the full project documentation:
+
+[![Project Documentation](./Thumbnail.png)](./Documentation.pdf)
